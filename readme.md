@@ -1,5 +1,5 @@
 <h2>Chat Application</h2>
-<p>It is a chat app built with React Js, Chakra UI, Node Js, Express Js, Mongodb.</p>
+<p>It is a chat app built with React Js, Chakra UI, Axios, Node Js, Express Js, Mongodb, Mongoose, Jsonwebtoken, Socket.io</p>
 <hr/>
 <label>Signup</label>  
 <img src="./preview/signup.png">
